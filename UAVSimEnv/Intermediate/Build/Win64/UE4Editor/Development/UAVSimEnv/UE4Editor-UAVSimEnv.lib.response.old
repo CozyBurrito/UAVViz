@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UAVSimEnv.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\M-WLP\School\GIT\UAVSimEnv\Intermediate\Build\Win64\UAVSimEnvEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\M-WLP\School\GIT\UAVSimEnv\Intermediate\Build\Win64\UE4Editor\Development\UAVSimEnv\MyClass.cpp.obj"
+"C:\M-WLP\School\GIT\UAVSimEnv\Intermediate\Build\Win64\UE4Editor\Development\UAVSimEnv\UAVSimEnv.cpp.obj"
+"C:\M-WLP\School\GIT\UAVSimEnv\Intermediate\Build\Win64\UE4Editor\Development\UAVSimEnv\Default.rc2.res"
+/OUT:"C:\M-WLP\School\GIT\UAVSimEnv\Intermediate\Build\Win64\UE4Editor\Development\UAVSimEnv\UE4Editor-UAVSimEnv.lib"
+/INCLUDE:IMPLEMENT_MODULE_UAVSimEnv

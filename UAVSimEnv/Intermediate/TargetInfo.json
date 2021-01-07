@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UAVSimEnv",
+			"Path": "C:\\M-WLP\\School\\GIT\\UAVViz\\UAVSimEnv\\Source\\UAVSimEnv.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UAVSimEnvEditor",
+			"Path": "C:\\M-WLP\\School\\GIT\\UAVViz\\UAVSimEnv\\Source\\UAVSimEnvEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

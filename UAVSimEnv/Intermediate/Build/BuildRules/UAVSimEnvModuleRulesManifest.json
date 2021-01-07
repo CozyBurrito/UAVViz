@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\M-WLP\\School\\GIT\\UAVViz\\UAVSimEnv\\Source\\UAVSimEnv\\UAVSimEnv.Build.cs",
+		"C:\\M-WLP\\School\\GIT\\UAVViz\\UAVSimEnv\\Plugins\\AirSim\\Source\\AirSim.Build.cs",
+		"C:\\M-WLP\\School\\GIT\\UAVViz\\UAVSimEnv\\Source\\UAVSimEnv.Target.cs",
+		"C:\\M-WLP\\School\\GIT\\UAVViz\\UAVSimEnv\\Source\\UAVSimEnvEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

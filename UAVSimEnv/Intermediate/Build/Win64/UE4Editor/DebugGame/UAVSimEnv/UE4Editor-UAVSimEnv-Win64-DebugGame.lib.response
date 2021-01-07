@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UAVSimEnv-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\M-WLP\School\GIT\UAVViz\UAVSimEnv\Intermediate\Build\Win64\UAVSimEnvEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\M-WLP\School\GIT\UAVViz\UAVSimEnv\Intermediate\Build\Win64\UE4Editor\DebugGame\UAVSimEnv\MyClass.cpp.obj"
+"C:\M-WLP\School\GIT\UAVViz\UAVSimEnv\Intermediate\Build\Win64\UE4Editor\DebugGame\UAVSimEnv\UAVSimEnv.cpp.obj"
+"C:\M-WLP\School\GIT\UAVViz\UAVSimEnv\Intermediate\Build\Win64\UE4Editor\DebugGame\UAVSimEnv\Default.rc2.res"
+/OUT:"C:\M-WLP\School\GIT\UAVViz\UAVSimEnv\Intermediate\Build\Win64\UE4Editor\DebugGame\UAVSimEnv\UE4Editor-UAVSimEnv-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_UAVSimEnv
